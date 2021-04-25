@@ -1,1 +1,1 @@
-Testing in file1.txt change in local repo
+Testing in file1.txt change from both sides 
