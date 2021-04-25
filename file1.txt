@@ -1,2 +1,0 @@
-Testing in file1.txt change from both sides 
-New Branch
